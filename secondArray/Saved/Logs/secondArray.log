@@ -1207,3 +1207,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.06-13.02.12:861][324]AssetCheck: New page: Asset Save: multiple assets
 [2024.06.06-13.02.12:861][324]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.06.06-13.02.12:861][324]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-13.10.22:055][380]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.06-13.10.22:055][380]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.06-13.10.55:135][ 10]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.06-13.10.55:135][ 10]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.06-13.11.35:345][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.06.06-13.11.35:359][690]LogSavePackage: Moving '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Minimal_Default12F868D54BDC1755BF9837AF2EA790A0.tmp' to '../../../../../uni/GD/2nd-unreal-array/secondArray/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-13.11.35:362][690]LogFileHelpers: Saving map 'Minimal_Default' took 0.037
+[2024.06.06-13.11.35:381][690]AssetCheck: New page: Asset Save: Minimal_Default
+[2024.06.06-13.11.35:381][690]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-13.11.36:033][768]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.06-13.11.36:068][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.06.06-13.11.36:993][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.06.06-13.11.37:006][871]LogSavePackage: Moving '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Minimal_DefaultECF695804463814CF0902CA5A0D94133.tmp' to '../../../../../uni/GD/2nd-unreal-array/secondArray/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-13.11.37:008][871]LogFileHelpers: Saving map 'Minimal_Default' took 0.035
+[2024.06.06-13.11.37:024][871]AssetCheck: New page: Asset Save: Minimal_Default
+[2024.06.06-13.11.37:024][871]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-13.11.38:374][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.06.06-13.11.38:389][ 25]LogSavePackage: Moving '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Minimal_DefaultF848BA36450B7C69D0A4AA9BB039071D.tmp' to '../../../../../uni/GD/2nd-unreal-array/secondArray/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-13.11.38:422][ 25]LogSavePackage: Moving '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Minimal_Default_BuiltDataC0DBFDAB4BB8300A6BD1508422BFB3E0.tmp' to '../../../../../uni/GD/2nd-unreal-array/secondArray/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.06.06-13.11.38:439][ 25]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.06-13.11.38:439][ 25]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.06.06-13.11.38:439][ 25]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
