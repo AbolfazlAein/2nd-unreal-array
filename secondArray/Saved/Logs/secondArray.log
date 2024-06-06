@@ -1229,3 +1229,128 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.06-13.11.38:439][ 25]AssetCheck: New page: Asset Save: multiple assets
 [2024.06.06-13.11.38:439][ 25]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.06.06-13.11.38:439][ 25]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-13.14.53:277][757]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.06-13.14.53:278][757]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.06-13.21.38:522][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.06.06-13.21.38:538][661]LogSavePackage: Moving '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Minimal_Default_Auto17AE19C354EDE8138703A3A8C95DEDBE8.tmp' to '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2024.06.06-13.21.38:538][661]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.039
+[2024.06.06-13.21.38:538][661]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2024.06.06-13.33.29:629][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.06.06-13.33.29:645][173]LogSavePackage: Moving '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Minimal_Default_Auto2C0705B20465567FE32103682E1FD1DC4.tmp' to '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2024.06.06-13.33.29:647][173]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.038
+[2024.06.06-13.33.29:647][173]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2024.06.06-13.33.31:972][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.06-13.33.31:987][439]LogSavePackage: Moving '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Minimal_Default3A6B2CE443D474B75A4B4186F26E52C8.tmp' to '../../../../../uni/GD/2nd-unreal-array/secondArray/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-13.33.31:989][439]LogFileHelpers: Saving map 'Minimal_Default' took 0.035
+[2024.06.06-13.33.32:005][439]AssetCheck: New page: Asset Save: Minimal_Default
+[2024.06.06-13.33.32:005][439]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-13.39.42:664][872]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.06-13.39.42:664][872]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.06-13.42.29:592][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.06.06-13.42.29:607][491]LogSavePackage: Moving '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Minimal_Default9CB224994D514F954D75848DF85DBA76.tmp' to '../../../../../uni/GD/2nd-unreal-array/secondArray/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-13.42.29:609][491]LogFileHelpers: Saving map 'Minimal_Default' took 0.038
+[2024.06.06-13.42.29:624][491]AssetCheck: New page: Asset Save: Minimal_Default
+[2024.06.06-13.42.29:624][491]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-13.42.30:481][593]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.06-13.42.30:519][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.06.06-13.43.47:997][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.06.06-13.43.48:011][868]LogSavePackage: Moving '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Minimal_Default3E0FE5384505319DD38A7792BB49FC34.tmp' to '../../../../../uni/GD/2nd-unreal-array/secondArray/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-13.43.48:013][868]LogFileHelpers: Saving map 'Minimal_Default' took 0.035
+[2024.06.06-13.43.48:026][868]AssetCheck: New page: Asset Save: Minimal_Default
+[2024.06.06-13.43.48:026][868]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-13.43.48:827][962]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.06-13.43.48:861][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.06.06-13.44.11:377][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2024.06.06-13.44.11:402][ 52]LogSavePackage: Moving '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Minimal_DefaultDC6EA7E14C32676CFEC608929265B17C.tmp' to '../../../../../uni/GD/2nd-unreal-array/secondArray/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-13.44.11:405][ 52]LogFileHelpers: Saving map 'Minimal_Default' took 0.067
+[2024.06.06-13.44.11:430][ 52]AssetCheck: New page: Asset Save: Minimal_Default
+[2024.06.06-13.44.11:430][ 52]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-13.44.11:821][ 95]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.06-13.44.11:858][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.06.06-13.44.12:655][181]LogTemp: Repeating last play command: Selected Viewport
+[2024.06.06-13.44.12:659][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.06-13.44.12:659][181]PIE: New page: PIE session: Minimal_Default (Jun 6, 2024, 9:44:12 PM)
+[2024.06.06-13.44.12:661][181]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.06.06-13.44.12:662][181]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.06.06-13.44.12:662][181]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.06.06-13.44.12:665][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003238s)
+[2024.06.06-13.44.12:666][181]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.06.06-13.44.12:667][181]LogPlayLevel: PIE: World Init took: (0.001559s)
+[2024.06.06-13.44.12:667][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004951s)
+[2024.06.06-13.44.12:686][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.06.06-13.44.12:687][181]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.06.06-13.44.12:687][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.06-13.44.12:687][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.06-13.44.12:687][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.06-13.44.12:687][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.06-13.44.12:687][181]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.06-13.44.12:687][181]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.06-13.44.12:687][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.06-13.44.12:687][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.06-13.44.12:687][181]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.06-13.44.12:687][181]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.06-13.44.12:687][181]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.06-13.44.12:687][181]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.06-13.44.12:691][181]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.06-13.44.12:691][181]LogAudioMixer: Display: 1: FrontRight
+[2024.06.06-13.44.12:691][181]LogAudioMixer: Display: 2: FrontCenter
+[2024.06.06-13.44.12:691][181]LogAudioMixer: Display: 3: LowFrequency
+[2024.06.06-13.44.12:691][181]LogAudioMixer: Display: 4: BackLeft
+[2024.06.06-13.44.12:691][181]LogAudioMixer: Display: 5: BackRight
+[2024.06.06-13.44.12:691][181]LogAudioMixer: Display: 6: SideLeft
+[2024.06.06-13.44.12:691][181]LogAudioMixer: Display: 7: SideRight
+[2024.06.06-13.44.12:740][181]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.06.06-13.44.12:741][181]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.06-13.44.12:741][181]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.06-13.44.12:741][181]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.06-13.44.12:741][181]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.06-13.44.12:741][181]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.06-13.44.12:741][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2024.06.06-13.44.12:742][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.06-13.44.12:742][181]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.06-13.44.12:742][181]LogInit: FAudioDevice initialized.
+[2024.06.06-13.44.12:742][181]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2024.06.06-13.44.12:793][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.06-13.44.12:793][181]LogLoad: Game class is 'GameModeBase'
+[2024.06.06-13.44.12:796][181]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.06.06-17.14.12
+[2024.06.06-13.44.12:796][181]LogWorld: Bringing up level for play took: 0.001526
+[2024.06.06-13.44.12:796][181]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2024.06.06-13.44.12:804][181]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2024.06.06-13.44.12:808][181]PIE: Server logged in
+[2024.06.06-13.44.12:808][181]PIE: Play in editor total start time 0.15 seconds.
+[2024.06.06-13.44.12:850][182]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2024.06.06-13.44.18:903][867]LogSlate: Window 'secondArray Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.06.06-13.44.18:914][867]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.06.06-13.44.18:946][867]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.06.06-13.44.18:947][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.06-13.44.18:957][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.06-13.44.18:962][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.06-13.44.18:992][867]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.06-13.44.18:992][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.06-13.44.18:993][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.06-13.44.19:042][867]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2024.06.06-13.44.19:054][868]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.06.06-13.44.21:656][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2024.06.06-13.44.21:670][165]LogSavePackage: Moving '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Minimal_Default6A439FB54FCA28302E734CA6949DA188.tmp' to '../../../../../uni/GD/2nd-unreal-array/secondArray/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-13.44.21:703][165]LogSavePackage: Moving '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Minimal_Default_BuiltData8DE5B89F4170C5658EF69FBD765588D9.tmp' to '../../../../../uni/GD/2nd-unreal-array/secondArray/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.06.06-13.44.21:715][165]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.06-13.44.21:715][165]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.06.06-13.44.21:715][165]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-13.44.26:208][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2024.06.06-13.44.26:227][691]LogSavePackage: Moving '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Minimal_DefaultABA3054541EAC9B97E2AAE82747DD856.tmp' to '../../../../../uni/GD/2nd-unreal-array/secondArray/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-13.44.26:229][691]LogFileHelpers: Saving map 'Minimal_Default' took 0.050
+[2024.06.06-13.44.26:248][691]AssetCheck: New page: Asset Save: Minimal_Default
+[2024.06.06-13.44.26:248][691]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-13.44.26:603][733]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.06-13.44.26:655][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2024.06.06-13.44.27:553][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.06.06-13.44.27:567][832]LogSavePackage: Moving '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Minimal_Default0C772B134AAC1FD17F074B8EA25A7C8C.tmp' to '../../../../../uni/GD/2nd-unreal-array/secondArray/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-13.44.27:569][832]LogFileHelpers: Saving map 'Minimal_Default' took 0.041
+[2024.06.06-13.44.27:584][832]AssetCheck: New page: Asset Save: Minimal_Default
+[2024.06.06-13.44.27:584][832]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-13.44.28:683][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.06.06-13.44.28:696][952]LogSavePackage: Moving '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Minimal_DefaultC95824B643C8C086E0BF7C99E94D2FCF.tmp' to '../../../../../uni/GD/2nd-unreal-array/secondArray/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-13.44.28:730][952]LogSavePackage: Moving '../../../../../uni/GD/2nd-unreal-array/secondArray/Saved/Minimal_Default_BuiltDataD0619C68463AF0E0AA29FCA5203F15EC.tmp' to '../../../../../uni/GD/2nd-unreal-array/secondArray/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.06.06-13.44.28:748][952]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.06-13.44.28:748][952]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.06.06-13.44.28:748][952]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
